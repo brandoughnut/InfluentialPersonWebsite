@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Hanuman-Black;
+    src: url(../fonts/Hanuman/Hanuman-Black.ttf);
+}
+
+@font-face {
+    font-family: Jaldi-Bold;
+    src: url(../fonts/Jaldi/Jaldi-Bold.ttf);
+}
+
+@font-face {
+    font-family: Jaldi-Regular;
+    src: url(../fonts/Jaldi/Jaldi-Regular.ttf);
+}
+
